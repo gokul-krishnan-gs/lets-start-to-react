@@ -1,5 +1,6 @@
 # React JS
 
-- ### Introduction
-- #### [Export and Import](export-import.md)
+- ### [Introduction](introduction.md "Introduction to React")
+- ### [Components](components.md "Components")
+- ### [Export and Import](export-import.md "Export and Import")
 
