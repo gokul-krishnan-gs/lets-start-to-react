@@ -8,3 +8,4 @@
 - ### [Props of a component](props.md "Properties of a component")
 - ### [Conditional rendering](conditional-rendering.md 'Conditional rendering')
 - ### [Rendering Data From Arrays](render-data-from-arrays.md "Rendering Data From Arrays")
+- ### [Keep Components pure](keep-pure-components.md "Keeping Pure components")
