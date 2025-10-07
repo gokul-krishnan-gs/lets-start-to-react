@@ -86,4 +86,80 @@ export function App() {
 
 - Once a component is defined, you can use it anywhere, any number of times.
 
+---
 
+# Practice Questions
+1. Create a component that displays a greeting message like “Welcome to My Website!”
+2. Make a component that displays your name, your goal, and a motivational quote — all together.
+3. Design two small child components (for example: “Header” and “Footer”) and use them inside a parent “App” component.
+4. Create a small UI structure where the same child component is used multiple times
+
+# Answers
+1:
+```jsx
+function Greet(){
+  return (
+    <h1>Welcome to My Website!</h1>
+  );
+}
+```
+2:
+```jsx
+function Profile(){
+  return (
+    <>
+      <h3>Name: Gokul Krishnan</h3>
+      <h3>Goal : Full Stack Web Developer</h3>
+      <h3>Quote: Hardwork Pays off</h3>
+    </>
+  );
+}
+```
+
+3:
+```jsx
+function Header(){
+  return (
+    <>
+      <h1>Welcome</h1>
+    </>
+  );
+}
+
+function Footer(){
+  return(
+    <>
+      <h3>Thanks for Visiting</h3>
+    </>
+  );
+}
+
+function App() {
+  return (
+    <>
+      <Header />
+      <Footer />
+    </>
+  );
+}
+```
+4:
+```jsx
+function Card(){
+  return(
+    <>
+      <p>This is a paragraph.</p>
+    </>
+  );
+}
+
+
+function App() {
+  return (
+    <>
+      <Card />
+      <Card />
+    </>
+ );
+}
+```
