@@ -5,3 +5,5 @@
 - ### [Export and Import](export-import.md "Export and Import")
 - ### [Writing JSX](jsx.md "Writing JSX")
 - ### [JavaScript in JSX with Curly Braces](js-in-jsx-curly-braces.md "JavaScript in JSX with Curly Braces")
+- ### [Props of a component](props.md "Properties of a component")
+- ### []()
