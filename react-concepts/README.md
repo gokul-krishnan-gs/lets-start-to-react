@@ -6,6 +6,5 @@
 - ### [Writing JSX](jsx.md "Writing JSX")
 - ### [JavaScript in JSX with Curly Braces](js-in-jsx-curly-braces.md "JavaScript in JSX with Curly Braces")
 - ### [Props of a component](props.md "Properties of a component")
-- 
 - ### [Conditional rendering](conditional-rendering.md 'Conditional rendering')
-- ### []()
+- ### [Rendering Data From Arrays](render-data-from-arrays.md "Rendering Data From Arrays")
