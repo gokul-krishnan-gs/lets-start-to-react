@@ -11,3 +11,4 @@
 - ### [Keep Components pure](keep-pure-components.md "Keeping Pure components")
 - ### [Understanding the Component Tree in React](ui-tree.md "Trees in React")
 - ### [Event Handling](event-handling.md "Event jandling")
+- ### [State - Components Memory](state.md "State in React")
