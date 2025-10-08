@@ -10,4 +10,4 @@
 - ### [Rendering Data From Arrays](render-data-from-arrays.md "Rendering Data From Arrays")
 - ### [Keep Components pure](keep-pure-components.md "Keeping Pure components")
 - ### [Understanding the Component Tree in React](ui-tree.md "Trees in React")
-- ### [Event Handling](event-handling "Event jandling")
+- ### [Event Handling](event-handling.md "Event jandling")
