@@ -12,3 +12,4 @@
 - ### [Understanding the Component Tree in React](ui-tree.md "Trees in React")
 - ### [Event Handling](event-handling.md "Event jandling")
 - ### [State - Components Memory](state.md "State in React")
+- ### [Important Hooks](important-hooks.md "Important Hooks")
